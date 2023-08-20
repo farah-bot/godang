@@ -1,0 +1,6 @@
+~ GUIDLINE HAPUS AKUN ~
+
+[1] Ketik angka 3 untuk masuk ke fitur hapus akun
+[2] Anda akan diminta konfirmasi untuk menghapus akun anda
+[3] Bila anda menghapus akun anda maka akun yang sudah anda hapus tidak akan bisa digunakan untuk login di GODANG
+[4] Tunggu 3 detik setelah notifikasi "Akun anda berhasil dihapus" dan anda akan kembali ke halaman utama program GODANG

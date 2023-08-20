@@ -1,0 +1,7 @@
+~ GUIDLINE BANTUAN ~
+
+[1] Ketik angka 4 untuk masuk ke fitur bantuan pada GODANG 
+[2] Pilih jenis bantuan apa yang anda inginkan 
+[3] "Guidline" merupakan fitur bantuan untuk anda agar bisa mengakses masing-masing fitur di GODANG tanpa ada kesalahan.
+[4] "Fitur GODANG" merupakan fitur bantuan yang berisi penjelasan fitur-fitur GODANG yang bisa anda akses
+[5] "Kritik dan Saran" merupakan fitur bantuan agar anda bisa memberikan kritik dan saran untuk program GODANG agar bisa lebih baik dan bermanfaat untuk anda serta petani lainnya di Indonesia di era teknologi 4.0

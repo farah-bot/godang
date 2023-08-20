@@ -1,0 +1,8 @@
+~ DAFTAR AKUN / REGISTRASI ~
+
+[1] Masukkan username yang ingin anda buat
+[2] Username yang telah digunakan akan ditolak sistem
+[3] Masukkan password yang ingin anda buat 
+[4] Konfirmasi password yang sudah anda buat tadi
+[5] Anda akan diarahkan untuk langsung masuk/log in dengan akun yang anda buat tadi
+[6] Setelah berhasil registrasi, tunggu 3 detik untuk lanjut ke fitur Log in atau Masuk akun 

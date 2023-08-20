@@ -1,0 +1,6 @@
+~ GUIDLINE FITUR TIPS BERTANI ~
+
+[1] Ketik angka 2 untuk masuk ke fitur Tips Bertani
+[2] Pilih tanaman apa yang ingin anda ketahui tips-tipsnya dengan memasukkan angka yang sudah diberi keterangan pada program
+[3] Anda dapat membaca informasi tips bertani sesuai tanaman yang anda pilih (Padi/Jagung/Cabai/Tomat)
+[4] Tekan enter untuk kembali ke halaman fitur

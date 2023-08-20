@@ -1,0 +1,36 @@
+~ GUIDLINE FITUR-FITUR GODANG ~
+
+1. [ INFO STOK ]
+
+(1) Masukkan angka 1 untuk ke fitur INFO STOK, anda akan mengetahui hasil rekapan per tanggal pengambilan, penambahan, penggunaan dan sisa pupuk serta bibit yang anda miliki dalam bentuk tabel.
+(2) Tekan enter untuk kembali ke halaman fitur.
+
+2. [ TAMBAH STOK ]
+> Masukkan angka 2 untuk ke fitur TAMBAH STOK
+
+{TAMBAH STOK BIBIT}
+(1) Masukkan angka 1 untuk masuk ke fitur penambahan stok bibit 
+(2) Tambahkan jumlah bibit yang anda simpan di gudang dalam satuan gr (gram)
+(3) Tunggu sistem memberi notifikasi "Stok berhasil ditambahkan" 
+(4) Ketik enter untuk kembali ke halaman fitur
+
+{TAMBAH STOK PUPUK}
+(1) Masukkan angka 2 untuk masuk ke fitur penambahan stok pupuk
+(2) Tambahkan jumlah pupuk yang anda simpan di gudang dalam satuan Kg (Kilogram)
+(3) Tunggu sistem memberi notifikasi "Stok berhasil ditambahkan" 
+(4) Ketik enter untuk kembali ke halaman fitur
+
+3. [ AMBIL STOK ]
+> Masukkan angka 3 untuk ke fitur AMBIL STOK
+
+{AMBIL STOK BIBIT}
+(1) Masukkan angka 1 untuk masuk ke fitur pengambilan/pengurangan stok bibit 
+(2) Tambahkan jumlah bibit yang anda ambil dari gudang dalam satuan gr (gram)
+(3) Tunggu sistem memberi notifikasi "Stok berhasil dikurangi" 
+(4) Ketik enter untuk kembali ke halaman fitur
+
+{AMBIL STOK PUPUK}
+(1) Masukkan angka 2 untuk masuk ke fitur pegambilan/pengurangan stok pupuk 
+(2) Tambahkan jumlah pupuk yang anda ambil dari gudang dalam satuan Kg (Kilogram)
+(3) Tunggu sistem memberi notifikasi "Stok berhasil dikurangi" 
+(4) Ketik enter untuk kembali ke halaman fitur

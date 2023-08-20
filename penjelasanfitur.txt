@@ -1,0 +1,24 @@
+~ Apa saja sih Fitur-Fitur yang dimiliki GODANG ??? ~
+
+[ STOK BARANG ]
+> Info Stok 
+{Menampilkan rekapan pengambilan dan penambahan stok pupuk dan bibit yang anda miliki}
+{Menampilkan sisa stok pupuk dan bibit yang anda miliki}
+
+> Tambah Stok
+{Mendata jumlah stok pupuk yang akan anda simpan dalam satuan Kg (Kilogram)}
+{Mendata jumlah stok bibit yang akan anda simpan dalam satuan gr (Gram)}
+
+> Ambil Stok 
+{Mendata jumlah stok pupuk yang akan anda ambil dalam satuan Kg (Kilogram)}
+{Mendata jumlah stok bibit yang akan anda ambil dalam satuan gr (Gram)}
+
+[ TIPS BERTANI ]
+{Menampilkan tips-tips bertani Padi, Jagung, Cabai, dan Tomat yang bisa anda lakukan dan praktikan sesuai kebutuhan anda}
+
+[ HAPUS AKUN ]
+{Sistem akan menghapus akun anda, dan anda tidak akan bisa log in kembali dengan akun yang sudah anda hapus}
+
+[ BANTUAN ]
+{Menampilkan penjelasan fitur-fitur GODANG yang bisa anda akses}
+{Melalui fitur ini anda bisa melaporkan kritik dan saran untuk GODANG agar lebih berkembang dan dapat menjadi program yang mampu membantu anda serta petani lainnya lebih maju di era teknologi 4.0}

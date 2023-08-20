@@ -1,0 +1,6 @@
+~ MASUK AKUN ~
+
+[1] Masukkan username anda yang sudah berhasil terdaftar
+[2] Masukkan password anda yang sudah berhasil terdaftar
+[3] Username dan password yang salah tidak akan berhasil masuk dan anda harus mencoba lagi 
+[4] Setelah berhasil masuk, tunggu 3 detik untuk lanjut ke halaman utama GODANG
